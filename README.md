@@ -1,1 +1,1 @@
-# JK_flipflop
+# JK_FlipFlop
